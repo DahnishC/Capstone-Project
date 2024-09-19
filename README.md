@@ -57,4 +57,5 @@ Specific challenges encountered during the project and how they were addressed.
 
 ### Useful Links, Data, and Documents
 ![CTFD LMU Screenshot](https://github.com/user-attachments/assets/33e72c39-85ce-4eaf-9fc9-3346dcf3cc7e)
+![Platform Setup CTF Screenshot](https://github.com/user-attachments/assets/649e8795-8bb7-48c1-9fbc-558ac25331b2)
 

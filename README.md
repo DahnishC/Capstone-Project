@@ -28,13 +28,15 @@ As for the competitor, they must have this image on there laptop or device they 
 **Data:** index.html, robots.txt, png, javascript file, cascading style sheet.
 
 ### 6. Solution Details (Technical Terms)
-More in-depth technical explanation of the solution for peers/technical teams.
-Include relevant diagrams (e.g., ERD, Flowchart, Data Flow Diagram).
-The methodology/framework used to build the solution. 
+The goal is to introduce participants to the field of Digital Forensics with a focus on Metadata Analysis. Metadata embedded in files can often reveal valuable information, such as the origin of the file, author details, timestamps, and even embedded messages (flags).
+  - **Image Creation:** The challenge starts with creating an image (LMU logo) using Photoshop. The metadata fields within the file, particularly EXIF, IPTC, and XMP, are edited to include a hidden flag under the author’s name.
+  - **Embedding Metadata:** Photoshop’s metadata panel allows for embedding custom metadata:
+      - **Author:** The flag for the challenge is inserted into the Author field of the metadata.
+      - **Timestamps & Copyright:** Additional metadata fields, like timestamps, were left to simulate a real-world scenario.
 **Frameworks:**
-  - CRISP-DM
-  - 5-Step Analytics Framework
-  - SDLC
+  - **ExifTool:** A command-line tool to extract metadata from files.
+  - **Exif Viewer:** Web-based tool to view metadata.
+  - **Adobe Photoshop:** Used to create and modify image metadata.
 
 ### 7. Next Steps / Future Improvements
 Features that were planned but abandoned or scaled down.

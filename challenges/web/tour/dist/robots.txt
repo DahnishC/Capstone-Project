@@ -1,0 +1,3 @@
+Very Easy ;)
+
+flag{d6b6eda8db39b623c7914a116fb4c47c}

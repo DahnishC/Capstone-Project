@@ -8,12 +8,8 @@
 
 ### **Elevator Pitch**
 
-We designed, implemented, and hosted 20 diverse Capture The Flag (CTF) challenges on the CTFd platform to engage and educate cybersecurity enthusiasts across various domains.
-
-- **Who are we helping?** Cybersecurity learners and practitioners.
-- **What problem are we solving?** The lack of hands-on, engaging, and realistic cybersecurity challenges.
-- **How will we solve it?** By creating interactive challenges hosted on a cloud-based platform.
-- **Impact:** Provides a structured learning pathway to enhance skills in cybersecurity, fostering both beginner and advanced learners.
+The Capture the Flag (CTF) competition is a premier cybersecurity challenge designed to engage, educate, and inspire the university community, including students, faculty, and staff. Offering hands-on experience 
+through a fun, game-like environment, it bridges te gap between theoretical knowledge and practical skills in cybersecurity. By participating, individuals have the unique opportunity to test and showcase their ability to tackle real-world cybersecurity challenges, fostering a vibrant culture of learning, collaboration, and friendly competition. 
 
 ---
 
